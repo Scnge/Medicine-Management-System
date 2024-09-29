@@ -13,3 +13,8 @@ NKU-2024-Database System Homework-Medicine Management System
 ![alt text](image-1.png)  
 ![alt text](image-2.png)  
 ![alt text](image-3.png)  
+
+**`Warnning:`** This project only implemented simple functions, and some similar functions were only implemented for one or two of them. If needed, please complete the project code in main.py.  
+
+## Project Database Design
+![alt text](image-4.png)
